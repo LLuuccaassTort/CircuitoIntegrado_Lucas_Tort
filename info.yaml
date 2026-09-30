@@ -15,24 +15,24 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "net1"
-  ui[1]: "net2"
-  ui[2]: "net3"
-  ui[3]: "net4"
-  ui[4]: "net5"
-  ui[5]: "net6"
-  ui[6]: "net7"
-  ui[7]: "net8"
+  ui[0]: "IN0"
+  ui[1]: "IN1"
+  ui[2]: "IN2"
+  ui[3]: "IN3"
+  ui[4]: "IN4"
+  ui[5]: "IN5"
+  ui[6]: "IN6"
+  ui[7]: "IN7"
 
   # Outputs
-  uo[0]: "net9"
-  uo[1]: "net10"
-  uo[2]: "net11"
-  uo[3]: "net12"
-  uo[4]: "net5"
-  uo[5]: "net6"
-  uo[6]: "net7"
-  uo[7]: "net8"
+  uo[0]: "OUT0"
+  uo[1]: "OUT1"
+  uo[2]: "OUT2"
+  uo[3]: "OUT3"
+  uo[4]: "OUT4"
+  uo[5]: "OUT5"
+  uo[6]: "OUT6"
+  uo[7]: "OUT7"
 
   # Bidirectional pins
   uio[0]: "0"
