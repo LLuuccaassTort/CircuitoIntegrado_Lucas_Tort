@@ -35,14 +35,14 @@ pinout:
   uo[7]: "net8"
 
   # Bidirectional pins
-  uio[0]: ""
-  uio[1]: ""
-  uio[2]: ""
-  uio[3]: ""
-  uio[4]: ""
-  uio[5]: ""
-  uio[6]: ""
-  uio[7]: ""
+  uio[0]: "0"
+  uio[1]: "0"
+  uio[2]: "0"
+  uio[3]: "0"
+  uio[4]: "0"
+  uio[5]: "0"
+  uio[6]: "0"
+  uio[7]: "0"
 
 # Do not change!
 yaml_version: 6
